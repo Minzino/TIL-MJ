@@ -19,5 +19,6 @@
 
 ### Java
 
+- [백기선 스터디 : 8주차 인터페이스](Java/interface.md)
 - [백기선 스터디 : 14주차 제네릭](Java/whiteStudy_generic.md)
 
