@@ -1234,3 +1234,14 @@ public class DefaultFoo implements Foo {
 ```
 
 Use DefaultFoo.java
+```java
+package me.minzino.study.interfacestudy.privateinterface;
+
+public class App {
+    public static void main(String[] args){
+        DefaultFoo defaultFoo = new DefaultFoo();
+        defaultFoo.fooMethod();
+        defaultFoo.defaultFooMethod();
+    }
+}
+```
