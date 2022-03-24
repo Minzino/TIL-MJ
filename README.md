@@ -24,3 +24,27 @@
 - [컬렉션 프레임워크](Java/CollectionsFramework.md)
 - [람다식](Java/lambda.md)
 - [스트림](Java/Stream.md)
+- [DAO, DTO, Entity Class](https://meenzino.notion.site/DAO-DTO-Entity-Class-0625e13eb68a4bdbb89f6793c89e9b9c)
+  
+
+### Cloud
+- [Webhook](https://watermelon-sugar.tistory.com/48)
+
+
+
+### Network
+- [DHCP의 구성 및 동작원리](https://watermelon-sugar.tistory.com/47)
+- [PDU(Protocol Data Unit)](https://watermelon-sugar.tistory.com/32?category=1210710)
+- [VPN](https://watermelon-sugar.tistory.com/30?category=1210710)
+- [MSS & MTU(데이터 크기 조절)](https://watermelon-sugar.tistory.com/29?category=1210710)
+- [ARP(Address Resolution Protocol)](https://watermelon-sugar.tistory.com/8?category=1210710)
+- [Broadcast, Unicast, Multicast](https://watermelon-sugar.tistory.com/6?category=1210710)
+
+
+### Linux
+- [CentOS 설치 후 yum이 안될 때](https://watermelon-sugar.tistory.com/33?category=1210720)
+
+
+
+### AWS
+- [AWS EC2(가상서버) 배포 및 사용](https://watermelon-sugar.tistory.com/14?category=1211015)
