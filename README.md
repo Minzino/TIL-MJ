@@ -40,6 +40,9 @@
 - [ARP(Address Resolution Protocol)](https://watermelon-sugar.tistory.com/8?category=1210710)
 - [Broadcast, Unicast, Multicast](https://watermelon-sugar.tistory.com/6?category=1210710)
 
+### HTTP
+- [HTTP 헤더 정리](https://meenzino.notion.site/HTTP-a5b5e6aa94db42868868c8c6b8e37a3d)
+
 
 ### Linux
 - [CentOS 설치 후 yum이 안될 때](https://watermelon-sugar.tistory.com/33?category=1210720)
